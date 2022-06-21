@@ -1,98 +1,91 @@
-## Wallpapers
-- nitrogen
+# My favourite Linux Applications
 
-## App launcher
+## Here is a list of applications that I foind myself using nearly in a daily basis in Linux
+
+### App launcher
 - rofi
 - dmenu
 
-## Screenshots
+### Screenshot programming 
 - scrot
 
-## Office Suite
+### Office Suite
 - libreoffice
 
-## Torrent manager
+### Torrent manager
 - qbittorrent
-- deluge
+- tranmission-cli
 
-## Video editor
+### Video editor
 - kdenlive
+- openshot
 
-## Image editor
+### Image editor
 - gimp
 
-## Pdf reader
+### Image viewer
+- sxiv
+- nomac
+
+### Pdf reader
 - evince
-- document viewer
 
-## Image viewer
-- nomacs
-
-## Shells
+## Shell environment
 - bash
 - zsh
+- dash
+- fish
+
+### Terminal multiplexer
 - tmux
 
----
-
-## Email client
+### Email client
 - neomutt
 
----
-
-## Browsers
+### Browsers
 - google-chrome
 - firefox
 - midori
 - lynx
 - tor-browser
+- qutebrowser
 
----
-
-##Video Players
-- smplayer
+### Video Players
+- ffmplay
 - mpv
 
----
+### Music client
+- mpd
 
-## Music player
+### Music player
+- ncmpcpp
 - mocp
-- mpv
-- audacious
 
----
-
-## File managers
-ranger
-nautilus
-
----
-
-## Termimal emulators
-- alacritty
+### File managers
+- ranger
+- spacefm
+- nautilus
+- 
+### Termimal emulators
 - kitty
-- xfce-terminal
+- alacritty
+- sakura
 
----
-
-## Text editors
+### Text editors
 - nvim
 - vim
-- nano
-- gedit
 
----
-
-## Login managers
+### Login managers
 - gdm
 - lightdm
 
----
-
-## Window managers
-- i3
+### Window managers
+- bspwm
 - qtile
 - xfce
-- awesome
-- pop
-- openbox
+
+### Wallpaper program
+- nitrogen
+
+### COmpositor program
+- picom
